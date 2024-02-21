@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 3,
+    "CreateDate": "2024-02-21T16:13:15.2963901+04:00",
+    "FirstName": "nini",
+    "LastName": "string",
+    "JobPosition": "string",
+    "Salary": 0.0,
+    "WorkExperience": 0.0,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": 0
+    }
+  },
+  {
+    "Id": 0,
+    "CreateDate": "2024-02-21T16:07:02.6380451+04:00",
+    "FirstName": "string",
+    "LastName": "lalala",
+    "JobPosition": "string",
+    "Salary": 0.0,
+    "WorkExperience": 3.0,
+    "PersonAddress": {
+      "Country": "string",
+      "City": "string",
+      "HomeNumber": 0
+    }
+  }
+]
